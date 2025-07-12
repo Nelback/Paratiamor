@@ -1,5 +1,5 @@
 body {
-    overflow: hidden;
+    overflow:hidden;
     background-image:url(fondo.jpg);
 }
 
@@ -28,4 +28,6 @@ img {
 
 audio {
     width: 100%;
+    position:relative;
+    top: -10px;
 }
